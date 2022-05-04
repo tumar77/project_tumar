@@ -1,0 +1,175 @@
+$bg-color:#b6d9db;
+body{
+  background: url("/img/пустая-комнат.jpg") no-repeat;
+  width: 1240px;
+  height: 400px;
+}
+.menu-item:hover{
+
+  background: darksalmon;
+  box-shadow: 0 8px 24px rgba(234,124, 105, 0.32);
+  border-radius: 8px;
+}
+.nav-item{
+
+  width: 92px;
+  height: 72px;
+
+}
+
+
+.nav-img{
+
+  width: 22px;
+  height: 27px;
+  display: flex;
+  justify-content: center; top: 4px;
+}
+
+
+
+.menu-item{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+ padding: 15px 15px;
+  width: 68px;
+  height: 68px;
+  margin: auto;
+
+
+}
+
+
+.toolbar{
+
+  background: $bg-color;
+  width: 92px;
+  height:281px;
+
+}
+
+
+.hom{
+  background:moccasin;
+  opacity: 0.26;
+  border-radius: 15px;
+  width: 45px;
+  height: 45px;
+border-bottom-width: 4px;
+
+
+}
+.container{
+  width: 663px;
+  margin: auto;
+ }
+.content{
+  height: 810px;
+  width: 635px;
+  left: 128px;
+  top: 240px;
+  border-radius: 0;
+}
+.title{
+  color: #417608;
+  font-size: 3rem;
+  padding-top:20rem;
+  position: absolute;
+left:22rem;
+  top: 19rem;
+}
+
+.sakyra{
+  position: absolute;
+  left:44rem;
+  top: 15rem;
+  width: 250px;
+  height: 158px;
+
+}
+.polka{
+  position: absolute;
+  left:63rem;
+  top: 18rem;
+  width: 230px;
+  height: 163px;
+}
+.flower1{
+  position: absolute;
+  left:70rem;
+  top: 27rem;
+  width: 145px;
+  height: 193px;
+}
+.closet{
+  position: absolute;
+  left:25rem;
+  top: 20.5rem;
+  width: 171px;
+  height: 305px;
+}
+.flower2{
+  position: absolute;
+  left:13rem;
+  top: 26rem;
+  height: 212px;
+}
+.styl1{
+  position: absolute;
+  left:-1rem;
+  top: 33rem;
+  width: 12rem;
+  height: 14rem;
+}
+
+.stol{
+  position: absolute;
+  left:39rem;
+  top: 25.5rem;
+  width: 278px;
+  height: 305px;
+}
+.styl{
+  position: absolute;
+  left:51rem;
+  top: 29.5rem;
+  width: 156px;
+  height: 234px;
+}
+.binoculars{
+  position: absolute;
+  left:10rem;
+  top: 28.3rem;
+  width: 79px;
+  height: 116px;
+}
+
+.chandelier1{
+  position: absolute;
+  left:66rem;
+  top: 8rem;
+
+}
+.chandelier2{
+  position: absolute;
+  left:61rem;
+  top: 0;
+}
+.chandelier3{
+  position: absolute;
+  left:31rem;
+  top: 8rem;
+}
+.chandelier4{
+  position: absolute;
+  left:26rem;
+  top: 14px;
+}
+.customer{
+  position: absolute;
+  left:8rem;
+  top: 29rem;
+  width: 79px;
+  height: 116px;
+}
